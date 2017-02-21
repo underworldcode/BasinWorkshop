@@ -15,11 +15,12 @@ Steps to running these models:
     
 2. **Download the Underworld2 docker image**
  
-   Use kitematic to search *Underworld2*. 
+   ![search](https://cloud.githubusercontent.com/assets/13825704/23151839/d5b56c62-f851-11e6-8cf0-e841f4393881.png)
 
 3. **Setup a volume and enter the token**
  
-   Again with kitematic
+   ![Create volume](https://cloud.githubusercontent.com/assets/13825704/23151865/f08210e0-f851-11e6-9792-69d1a95d0bd1.png)
+   ![Enter token](https://cloud.githubusercontent.com/assets/13825704/23151861/e8af6818-f851-11e6-8ba2-ed71071b87eb.png)
 
 4. **Download this repository**
    
