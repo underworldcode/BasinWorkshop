@@ -15,22 +15,22 @@ Steps to running these models:
     
 2. **Download the Underworld2 docker image**
  
-   ![search](https://cloud.githubusercontent.com/assets/13825704/23151839/d5b56c62-f851-11e6-8cf0-e841f4393881.png)
+   ![search](https://cloud.githubusercontent.com/assets/13825704/23188491/fedaa670-f8e2-11e6-8847-63ec5dd1deb4.png)
 
 3. **Setup a volume and enter the token**
  
-   ![Create volume](https://cloud.githubusercontent.com/assets/13825704/23151865/f08210e0-f851-11e6-9792-69d1a95d0bd1.png)
-   ![Enter token](https://cloud.githubusercontent.com/assets/13825704/23151861/e8af6818-f851-11e6-8ba2-ed71071b87eb.png)
+   ![Create volume](https://cloud.githubusercontent.com/assets/13825704/23188493/fedd2ff8-f8e2-11e6-8bec-9ed2379d5025.png)
+   ![Enter token](https://cloud.githubusercontent.com/assets/13825704/23188492/fedbb75e-f8e2-11e6-8032-0ff3d395b7d9.png)
 
 4. **Download this repository**
    
-  Download the zipped version of this repository and unzip the results in your *volume*.
-  They should be visiable under the *user_data* directory in kitematic.
+  Download the zipped version of this repository and unzip it in your *volume*.
+  The files should be visiable under the *user_data* directory in the docker environment.
  
 5. **Get modelling** 
  
    You can now workthrough all the examples in this workshop. 
-   All of Underworld2's models and documentation is available in the other directories *examples*, *user guide* and *publication*.
+   Remember - all the standard models and documentation that come with Underworld2 are also available in the other directories in the docker environment, *examples*, *user guide* and *publication*
 
 Useful Links to Underworld2 bits:
 
